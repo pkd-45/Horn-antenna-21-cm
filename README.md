@@ -6,6 +6,12 @@ This website will help you designing a horn antenna to detect the 21 cm line of 
 
 ## Section 2 : Radio Telescope System Construction
 1. Horn Construction:
-      * [Theory and Equations](/Upload/DSPIRA_Horn_Assembly_2019b.pdf)
-      * [Horn Construction](/Upload/DSPIRA_Horn_Assembly.pdf)
-  
+      * [Theory and Equations]()
+      * [The making]()
+2. Other hardwares:
+## Section 3 : Software installation and use
+1. [Installation](/uploads/Software.pdf)
+2. [Use]()
+
+## Section 4 : Observation and analysis
+
